@@ -1,0 +1,767 @@
+{
+  "Data": {
+    "ScoreValues": [
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.097582188468605,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.2092982788149436,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.4464,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.235,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.4257,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.2425,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.013147077724609635,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.010733400118567417,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9254109695482499,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9147296618176568,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.853432397199256,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8207426899070092,
+        "VariantId": 78507
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.0479814089622748,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.1273901427249198,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.5633,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.304,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.5169,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.2895,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.008547246057961757,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.006220503179755813,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9236739729191508,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9038286119564799,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8523318320521921,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8235032810255078,
+        "VariantId": 78508
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.048096315734937,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.138106791946215,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.5733,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.389,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.5589,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.4055,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.015531167126891204,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.0127735504268307,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9196765058067005,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.8998617562032847,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8390803219818803,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8029642667554615,
+        "VariantId": 78509
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.0302716123745475,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.0975178269901196,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.6313,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.3955,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.6092,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.419,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.009435051378477284,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.007315066554208702,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9254954511112131,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9044353883812167,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8521021819294042,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8234210670488189,
+        "VariantId": 78510
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.097582188468605,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.2092982788149436,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.4464,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.235,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.4257,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.2425,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.013147077724609635,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.010733400118567417,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9254109695482499,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9147296618176568,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.853432397199256,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8207426899070092,
+        "VariantId": 75655
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.0479814089622748,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.1273901427249198,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.5633,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.304,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.5169,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.2895,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.008547246057961757,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.006220503179755813,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9236739729191508,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9038286119564799,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8523318320521921,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8235032810255078,
+        "VariantId": 75656
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.048096315734937,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.138106791946215,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.5733,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.389,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.5589,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.4055,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.015531167126891204,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.0127735504268307,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9196765058067005,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.8998617562032847,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8390803219818803,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8029642667554615,
+        "VariantId": 44557
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 719,
+        "Value": 1.0302716123745475,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 356,
+        "TimeFrameId": 720,
+        "Value": 1.0975178269901196,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 719,
+        "Value": 0.6313,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 365,
+        "TimeFrameId": 720,
+        "Value": 0.3955,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 719,
+        "Value": 0.6092,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 388,
+        "TimeFrameId": 720,
+        "Value": 0.419,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 719,
+        "Value": 0.009435051378477284,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 391,
+        "TimeFrameId": 720,
+        "Value": 0.007315066554208702,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 719,
+        "Value": 0.9254954511112131,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 399,
+        "TimeFrameId": 720,
+        "Value": 0.9044353883812167,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 719,
+        "Value": 0.8521021819294042,
+        "VariantId": 54228
+      },
+      {
+        "ScoreId": 401,
+        "TimeFrameId": 720,
+        "Value": 0.8234210670488189,
+        "VariantId": 54228
+      }
+    ],
+    "Scores": [
+      {
+        "Id": 356,
+        "Label": "Dekkingsgraad",
+        "Name": "Gemiddelde Dekkingsgraad new UFR (LT moving average)"
+      },
+      {
+        "Id": 365,
+        "Label": "Kans DG < 104%",
+        "Name": "Kans Dekkingsgraad < 104% new UFR"
+      },
+      {
+        "Id": 388,
+        "Label": "Kans op korten",
+        "Name": "Kans op korten"
+      },
+      {
+        "Id": 391,
+        "Label": "Mate van korten",
+        "Name": "Mate van korten"
+      },
+      {
+        "Id": 399,
+        "Label": "Koopkracht",
+        "Name": "Koopkracht"
+      },
+      {
+        "Id": 401,
+        "Label": "5% VaR Koopkracht",
+        "Name": "5% VaR Koopkracht"
+      }
+    ],
+    "TimeFrames": [
+      {
+        "Id": 719,
+        "Name": "Jaar 1 t/m 5"
+      },
+      {
+        "Id": 720,
+        "Name": "Jaar 5"
+      }
+    ],
+    "Variants": [
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "A"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Rentestijging"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "2"
+          }
+        ],
+        "Id": 78507
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "B"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Rentestijging"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "2"
+          }
+        ],
+        "Id": 78508
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "A"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Basis"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "2"
+          }
+        ],
+        "Id": 78509
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "B"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Basis"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "2"
+          }
+        ],
+        "Id": 78510
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "A"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Rentestijging"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "1"
+          }
+        ],
+        "Id": 75655
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "B"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Rentestijging"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "1"
+          }
+        ],
+        "Id": 75656
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "A"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Basis"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "1"
+          }
+        ],
+        "Id": 44557
+      },
+      {
+        "Attributes": [
+          {
+            "Name": "Alternatief",
+            "Value": "B"
+          },
+          {
+            "Name": "Economie",
+            "Value": "Basis"
+          },
+          {
+            "Name": "Dummy",
+            "Value": "1"
+          }
+        ],
+        "Id": 54228
+      }
+    ]
+  },
+  "MetaData": {
+    "EnvironmentName": "TNO",
+    "ReleaseDate": "11/11/2020",
+    "Version": "2017.2.0"
+  }
+}
